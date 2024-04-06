@@ -4,12 +4,12 @@
 
 <br>
 
-## ☁️ One-Click Deploy To Vercel
+## 🎶☁️ One-Click Deploy To Vercel
 
 - [Here](https://github.com/sachinsenal0x64/host-hifi-restapi-on-vercel)
 
 <br>
 
-## ☁️ One-Click Deploy To Heroku
+## 🎶☁️ One-Click Deploy To Heroku
 
 - [Here](https://github.com/sachinsenal0x64/host-hifi-restapi-on-heroku)
